@@ -22,10 +22,10 @@
 <details>
   <summary>Aprendendo a Programar do Zero com JavaScript (9 atividades)</summary>
  
-   -  [ ] Apresentação da Formaçaõ JavaScript Developer(1hr)
-   -  [ ] Primeiros Passos com JavaScript(3hrs)
-   -  [ ] Conhecendo Funções JavaScript(2hrs)
-   -  [ ] Criando Objetos e Classes em javaScript(2hrs)
+   -  [x] Apresentação da Formaçaõ JavaScript Developer(1hr)
+   -  [x] Primeiros Passos com JavaScript(3hrs)
+   -  [x] Conhecendo Funções JavaScript(2hrs)
+   -  [x] Criando Objetos e Classes em javaScript(2hrs)
    -  [ ] Arrays e Estruturas de Repetição em JavaScript(2hrs)
    -  [ ] Importação e Exportação com JavaScript(1hr)
    -  [ ] Consolide Seu conhecimetno com Desafios de Código JavaScript(2hrs)
